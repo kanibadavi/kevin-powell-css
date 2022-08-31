@@ -1,6 +1,6 @@
 # kevin-powell-css
 ## box model
-[box-model-image](./img/27.png)
+[box-model-image](0fqvvuzxoh2o.png)
 
 >`about the width, dont use it!`  
 
