@@ -8,3 +8,5 @@ selector {
 }
 ```
 - declaration: property+value
+<hr>
+<hr>
