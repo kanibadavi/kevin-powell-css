@@ -4,7 +4,9 @@
 
 ```css
 selector {
-    property: value
+    property: value;
 }
 ```
 - declaration: property+value
+<hr>
+<hr>
