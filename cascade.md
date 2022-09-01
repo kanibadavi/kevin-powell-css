@@ -8,12 +8,14 @@
 > and the order of importance is:
 wherever we have `!important`
 
->and the last but not the least order of both together is:
+>and the last but not the least order of all is:
 1. important user declaration
 2. important author declaration
-3. author declaration
-4. user declaration
-5. user agent declaration
+3. animations
+4. transitions
+5. author declaration
+6. user declaration
+7. user agent declaration
 <hr>
 <hr>
 
